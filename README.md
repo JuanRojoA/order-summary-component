@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/JuanRojoA/order-summary-component)
+- Live Site URL: [Github Pages](https://juanrojoa.github.io/order-summary-component/)
 
 ### Built with
 
